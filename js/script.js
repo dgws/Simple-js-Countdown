@@ -1,4 +1,3 @@
-window.addEventListener('DOMContentLoaded', function(){
 
     "use strict";
         // Timerпше
@@ -49,4 +48,4 @@ window.addEventListener('DOMContentLoaded', function(){
         }
 
         setClock('timer', deadline);
-    }); 
+
