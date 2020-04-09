@@ -2,7 +2,7 @@
     "use strict";
         // Timerпше
 
-        let deadline = '2020-04-09';
+        let deadline = '2020-04-12';
 
         function getTimeRemainig(endtime){
             let t = Date.parse(endtime) - Date.parse(new Date()),
